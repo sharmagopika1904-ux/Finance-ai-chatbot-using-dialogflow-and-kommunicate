@@ -81,15 +81,15 @@ The system recognizes user queries and provides relevant financial explanations,
 
 ## 🏗️ System Architecture
 
-![Dialogflow](dialogflow,jpeg)
+![Dialogflow](dialogflow.jpeg)
 
-![Dialogflow1](dialogflow1,jpeg)
+![Dialogflow1](dialogflow1.jpeg)
 
-![Dialogflow2](dialogflow2,jpeg)
+![Dialogflow2](dialogflow2.jpeg)
 
-![Dialogflow3](dialogflow3,jpeg)
+![Dialogflow3](dialogflow.jpeg)
 
-![Dialogflow4](dialogflow4,jpeg) 
+![Dialogflow4](dialogflow4.jpeg) 
 
 👨‍💻 Author
 
