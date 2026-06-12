@@ -81,12 +81,18 @@ The system recognizes user queries and provides relevant financial explanations,
 
 ## 🏗️ System Architecture
 
-https://github.com/sharmagopika1904-ux/REPOSITORY-NAME/blob/main/dialogflow1.jpeg
+![Dialogflow](dialogflow-img)
 
-https://github.com/sharmagopika1904-ux/REPOSITORY-NAME/blob/main/dialogflow2.jpeg
+![Dialogflow1](dialogflow1-img)
 
-https://github.com/sharmagopika1904-ux/REPOSITORY-NAME/blob/main/dialogflow3.jpeg
+![Dialogflow2](dialogflow2-img)
 
-https://github.com/sharmagopika1904-ux/REPOSITORY-NAME/blob/main/dialogflow4.jpeg
+![Dialogflow3](dialogflow3-img)
 
-https://github.com/sharmagopika1904-ux/REPOSITORY-NAME/blob/main/dialogflow5.jpeg
+![Dialogflow4](dialogflow4-img) 
+
+👨‍💻 Author
+
+**Gopika**
+
+Developer of the Finance AI Chatbot using Dialogflow and Kommunicate.
